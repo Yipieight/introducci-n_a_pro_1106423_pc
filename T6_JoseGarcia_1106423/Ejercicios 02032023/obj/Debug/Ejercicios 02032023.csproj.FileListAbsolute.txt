@@ -13,3 +13,11 @@ C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a la progra
 C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a la programacion practica\practica 1\c#\Ejercicios 02032023\Ejercicios 02032023\obj\Debug\Ejercicios 02032023.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a la programacion practica\practica 1\c#\Ejercicios 02032023\Ejercicios 02032023\obj\Debug\Ejercicios 02032023.exe
 C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a la programacion practica\practica 1\c#\Ejercicios 02032023\Ejercicios 02032023\obj\Debug\Ejercicios 02032023.pdb
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\T6_JoseGarcia_1106423\Ejercicios 02032023\bin\Debug\Ejercicios 02032023.exe.config
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\T6_JoseGarcia_1106423\Ejercicios 02032023\bin\Debug\Ejercicios 02032023.exe
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\T6_JoseGarcia_1106423\Ejercicios 02032023\bin\Debug\Ejercicios 02032023.pdb
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\T6_JoseGarcia_1106423\Ejercicios 02032023\obj\Debug\Ejercicios 02032023.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\T6_JoseGarcia_1106423\Ejercicios 02032023\obj\Debug\Ejercicios 02032023.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\T6_JoseGarcia_1106423\Ejercicios 02032023\obj\Debug\Ejercicios 02032023.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\T6_JoseGarcia_1106423\Ejercicios 02032023\obj\Debug\Ejercicios 02032023.exe
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\T6_JoseGarcia_1106423\Ejercicios 02032023\obj\Debug\Ejercicios 02032023.pdb
