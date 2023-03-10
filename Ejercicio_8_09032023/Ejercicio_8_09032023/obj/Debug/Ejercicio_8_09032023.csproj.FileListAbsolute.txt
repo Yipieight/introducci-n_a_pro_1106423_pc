@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\Ejercicio_8_09032023\Ejercicio_8_09032023\bin\Debug\Ejercicio_8_09032023.exe.config
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\Ejercicio_8_09032023\Ejercicio_8_09032023\bin\Debug\Ejercicio_8_09032023.exe
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\Ejercicio_8_09032023\Ejercicio_8_09032023\bin\Debug\Ejercicio_8_09032023.pdb
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\Ejercicio_8_09032023\Ejercicio_8_09032023\obj\Debug\Ejercicio_8_09032023.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\Ejercicio_8_09032023\Ejercicio_8_09032023\obj\Debug\Ejercicio_8_09032023.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\Ejercicio_8_09032023\Ejercicio_8_09032023\obj\Debug\Ejercicio_8_09032023.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\Ejercicio_8_09032023\Ejercicio_8_09032023\obj\Debug\Ejercicio_8_09032023.exe
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\Ejercicio_8_09032023\Ejercicio_8_09032023\obj\Debug\Ejercicio_8_09032023.pdb
