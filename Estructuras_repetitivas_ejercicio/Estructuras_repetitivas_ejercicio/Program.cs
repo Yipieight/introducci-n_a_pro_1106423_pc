@@ -11,9 +11,11 @@ namespace Estructuras_repetitivas_ejercicio
         public void ejercicio1()
         {
             int numero;
+            Console.Clear();
+            Console.WriteLine("Ejercicio #1");
             do
             {
-                Console.Clear();
+                
                 Console.WriteLine("Ingrese un numero entero del 1 hasta al 99");
                 numero = int.Parse(Console.ReadLine());
                 if (numero % 2 == 0)
@@ -28,6 +30,8 @@ namespace Estructuras_repetitivas_ejercicio
         }
         public void ejercicio2()
         {
+            Console.Clear();
+            Console.WriteLine("Ejercicio #2");
             string f = "";
             Console.WriteLine("Ingrese cauntos filas quiere ingresar");
             int filas = int.Parse(Console.ReadLine());
@@ -37,10 +41,12 @@ namespace Estructuras_repetitivas_ejercicio
                 f = f + " " + i;
                 Console.WriteLine(f);
             }
-            Console.ReadLine();
+            Console.ReadKey();
         }
         public void ejercicio3()
         {
+            Console.Clear();
+            Console.WriteLine("Ejercicio #3");
             int suma = 0;
             for (int i = 100; i <= 200; i++)
             {
@@ -58,15 +64,20 @@ namespace Estructuras_repetitivas_ejercicio
         }
         public void ejercicio4()
         {
-            Console.WriteLine("Ingrese un numero del 1 al 10");
+            Console.Clear();
+            Console.WriteLine("Ejercicio #4");
+            Console.WriteLine("Ingrese un numero positivo del 1 al 10");
             int numero = int.Parse(Console.ReadLine());
             for (int i = 1; i <= numero; i++)
             {
-                for (int j = 0; j <= numero; i++)
+                Console.Write(i+" ");
+                for (int j = 1; j <= numero; j++)
                 {
-
+                    Console.Write((i * j) + "\t");
                 }
+                Console.Write("\n");
             }
+            Console.ReadKey();
         }
 
 
@@ -74,16 +85,12 @@ namespace Estructuras_repetitivas_ejercicio
         {
             ejercicios ejer = new ejercicios();
 
-            Console.WriteLine("EJERCICIO 1");
             ejer.ejercicio1();
                 
-            Console.WriteLine("EJERCICIO 2");
             ejer.ejercicio2();
 
-            Console.WriteLine("EJERCICIO 3");
             ejer.ejercicio3();
 
-            Console.WriteLine("EJERCICIO 4");
             ejer.ejercicio4();
 
         }
