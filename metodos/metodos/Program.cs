@@ -13,8 +13,9 @@ namespace metodos
     {
         static void Main(string[] args)
         {
-            //escojerfigura();
-            //electrodomesticos();
+            //José Andrés García Elías 1106423
+            escojerfigura();
+            electrodomesticos();
             divisores();
         }
 
