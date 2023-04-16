@@ -14,7 +14,8 @@ namespace metodos
         static void Main(string[] args)
         {
             //escojerfigura();
-            electrodomesticos();
+            //electrodomesticos();
+            divisores();
         }
 
         public static void escojerfigura()
@@ -65,12 +66,7 @@ namespace metodos
             Console.WriteLine("Ingrese el color");
             string color = Console.ReadLine();
             Console.WriteLine("Ingrese el peso en KG (kilogramo)");
-            double peso = double.Parse(Console.ReadLine();
-
-            if (letra == "A")
-            {
-                
-            }
+            double peso = double.Parse(Console.ReadLine());
             switch (letra)
             {
                 case "A":
@@ -129,6 +125,24 @@ namespace metodos
             Console.ReadKey();
 
 
+        }
+        public static void divisores()
+        {
+            string mostrar = "";
+            Console.WriteLine("Ingrese un número para sacar sus divisores");
+            int numero = int.Parse(Console.ReadLine());
+            
+            for(int i = 1; i <= numero; i++)
+            {
+                int divisor = numero % i;
+                if (divisor == 0)
+                {
+                    mostrar = mostrar + " "+ i;
+                }
+            }
+
+            Console.WriteLine($"Los números divisores de {numero} son: {mostrar}");
+            Console.ReadKey();
         }
 
     }
